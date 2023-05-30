@@ -1,0 +1,5 @@
+C:/Users/vzhur/CLionProjects/qt_win_app/cmake-build-debug/CMakeFiles/qt_win_app.dir
+C:/Users/vzhur/CLionProjects/qt_win_app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vzhur/CLionProjects/qt_win_app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vzhur/CLionProjects/qt_win_app/cmake-build-debug/CMakeFiles/qt_win_app_autogen_timestamp_deps.dir
+C:/Users/vzhur/CLionProjects/qt_win_app/cmake-build-debug/CMakeFiles/qt_win_app_autogen.dir
